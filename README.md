@@ -1,11 +1,8 @@
 # Deepwater Plankton Classification
 
-In this project, we explored various neural network archiectures and performed transfer
-learning via VGG16, VGG19, and Xception on a deep sea plankton dataset to classify
-each subspecies. 
+Explored various neural network archiectures and performed transfer learning via VGG16, VGG19, and Xception.
 
-We experimented with different settings, such as classification layers, optimizers,
-parameters, etc., to obtain the best results.
+Experimented with different settings, such as classification layers, optimizers, parameters, etc., to obtain the best results.
 
 ---------------------------------------------------------------------------------------------------------
 
