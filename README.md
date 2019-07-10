@@ -7,4 +7,5 @@ each subspecies.
 We experimented with different settings, such as classification layers, optimizers,
 parameters, etc., to obtain the best results.
 
+![description](https://github.com/JeffreyYeung7/Plankton-Classification/blob/master/ModelAccuracy.png)
 ![description](https://github.com/JeffreyYeung7/Plankton-Classification/blob/master/XceptionConfusion.png)
